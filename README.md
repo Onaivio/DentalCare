@@ -32,7 +32,7 @@ git clone https://github.com/onaivio/DentalCare.git
 
 ### Contact
 
-If you want to contact with me you can reach me at [Twitter](https://www.twitter.com/onaivio).
+If you want to contact with me you can reach me at [Twitter](https://twitter.com/OkomayinOnaivi).
 
 ### License
 
