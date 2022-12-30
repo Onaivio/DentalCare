@@ -7,9 +7,10 @@ If you Like follow me up on twitter to see more Website like this. [@OkomayinOna
 If you Like connect to me on Linkedln. [Onaivi Okomayin](https://www.linkedin.com/in/onaivi-okomayin-732b82241/)
 
 </div>
-![preview img](/dentalcare.png)
 
 ### Prerequisites
+
+![preview img](./dentalcare.png)
 
 Before you begin, ensure you have met the following requirements:
 
