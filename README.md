@@ -3,16 +3,11 @@
 
 DentalCare is a fully responsive dental website, <br />Responsive for all devices, build using HTML, CSS, and JavaScript.
 
-
 If you Like follow me up on twitter to see more Website like this. [@OkomayinOnaivi](https://twitter.com/OkomayinOnaivi)
 If you Like connect to me on Linkedln. [Onaivi Okomayin](https://www.linkedin.com/in/onaivi-okomayin-732b82241/)
 
-![preview img](/dentalcare .png)
-
 </div>
-
-<br />
-
+![preview img](/dentalcare.png)
 
 ### Prerequisites
 
